@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 ![ALT](src/components/layout/spinner.gif "Title")
-![Alt text](src/components/layout/2.jpg?raw=true "Title")
+![Alt text](src/components/layout/2.jpeg?raw=true "Title")
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
