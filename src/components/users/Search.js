@@ -42,7 +42,7 @@ export class Search extends Component {
             value="search"
             className=" btn btn-dark btn-block"
           >
-            Search
+            Search1
           </button>
         </form>
         {this.props.showClear && (
